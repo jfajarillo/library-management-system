@@ -29,7 +29,7 @@ A web-based Library Management System for managing **books**, **members**, and *
 ## Quick Start
 
 ```bash
-git clone https://github.com/<your-username>/library-management-system.git
+git clone https://github.com/jfajarillo/library-management-system.git
 cd library-management-system
 npm start
 ```
@@ -225,11 +225,11 @@ Commit message prefixes: `feat:` new feature · `test:` tests · `fix:` bug fix 
 
 | Member | Role | Responsibilities |
 |---|---|---|
-| _Name_ | Project Lead | Repo setup, architecture, Book module, merging PRs |
-| _Name_ | Developer | Member module + tests |
-| _Name_ | Developer | Loan module (borrow/return) + tests |
-| _Name_ | Developer / QA | Fine calculator, API routes, Postman testing |
-| _Name_ | QA / Documentation | Integration tests, User Manual, Technical Documentation |
+| Jarel Fajarillo | Project Lead | Repo setup, architecture, Book module, merging PRs |
+| Cedi Evangelista | Developer | Member module + tests |
+| Gian Carlo Quizon | Developer | Loan module (borrow/return) + tests |
+| Harjot Singh | Developer / QA | Fine calculator, API routes, Postman testing |
+| Donald Sergio Medina | QA / Documentation | Integration tests, User Manual, Technical Documentation |
 
 ---
 
