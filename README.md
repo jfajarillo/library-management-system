@@ -225,11 +225,11 @@ Commit message prefixes: `feat:` new feature · `test:` tests · `fix:` bug fix 
 
 | Member | Role | Responsibilities |
 |---|---|---|
-| _Name_ | Project Lead | Repo setup, architecture, Book module, merging PRs |
-| _Name_ | Developer | Member module + tests |
-| _Name_ | Developer | Loan module (borrow/return) + tests |
-| _Name_ | Developer / QA | Fine calculator, API routes, Postman testing |
-| _Name_ | QA / Documentation | Integration tests, User Manual, Technical Documentation |
+| Jarel Fajarillo | Project Lead | Repo setup, architecture, Book module, merging PRs |
+| Cedi Evangelista | Developer | Member module + tests |
+| Gian Carlo Quizon | Developer | Loan module (borrow/return) + tests |
+| Harjot Singh | Developer / QA | Fine calculator, API routes, Postman testing |
+| Gio Medina | QA / Documentation | Integration tests, User Manual, Technical Documentation |
 
 ---
 
