@@ -1,0 +1,15 @@
+// Sample data loaded the first time the app runs (so the demo isn't empty).
+module.exports = {
+  books: [
+    { id: 1, title: 'Noli Me Tangere', author: 'Jose Rizal', isbn: '9789710810736', totalCopies: 3, availableCopies: 3 },
+    { id: 2, title: 'El Filibusterismo', author: 'Jose Rizal', isbn: '9789710810743', totalCopies: 2, availableCopies: 2 },
+    { id: 3, title: 'Clean Code', author: 'Robert C. Martin', isbn: '9780132350884', totalCopies: 1, availableCopies: 1 },
+    { id: 4, title: 'Introduction to Algorithms', author: 'Thomas H. Cormen', isbn: '9780262046305', totalCopies: 2, availableCopies: 2 },
+  ],
+  members: [
+    { id: 1, name: 'Juan Dela Cruz', email: 'juan@example.com' },
+    { id: 2, name: 'Maria Santos', email: 'maria@example.com' },
+  ],
+  loans: [],
+  counters: { books: 4, members: 2, loans: 0 },
+};
